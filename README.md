@@ -25,7 +25,7 @@ When I'm not building applications or studying for my classes, you can usually f
 
 ---
 
-## Selected Work
+## Showcase Work
 
 - **Mississippi Quality Education Platform – AI Tutoring Platform**  
   First Place and Student Choice Award at the AIS Software Innovation Competition. Led an AI-powered web application from concept to scalable solution, improving access to interactive resources, guided learning paths, and certification opportunities for under-resourced K–12 students across Mississippi, aligned with UN Sustainability Goals.
