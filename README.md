@@ -1,4 +1,4 @@
-# Hi, I'm Griffin Long
+# Welcome, I'm Griffin Long
 
 **Entrepreneur & Technical Developer | Full Stack Web Development | Business Strategy**
 
